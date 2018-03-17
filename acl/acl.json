@@ -1,0 +1,14 @@
+{
+    "superadmin": {
+        "POST": [
+            "/user"
+        ]
+    },
+    "admin": {
+        "GET": [
+            "/list",
+            "/count",
+            "/search"
+        ]
+    }
+}

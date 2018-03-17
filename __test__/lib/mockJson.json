@@ -1,0 +1,18 @@
+{
+    "adminUser": {
+        "delated_at" : null,
+        "name" : "Ravi Shah",
+        "role" : "admin",
+        "uid" : "dummy-admin",
+        "created_at" : "2018-03-17T14:18:27.650Z",
+        "updated_at" : "2018-03-17T14:18:27.650Z"
+    },
+    "superAdminUser": {
+        "delated_at" : null,
+        "name" : "Ravi Shah",
+        "role" : "superadmin",
+        "uid" : "dummy-superadmin",
+        "created_at" : "2018-03-17T14:18:27.650Z",
+        "updated_at" : "2018-03-17T14:18:27.650Z"
+    }
+}

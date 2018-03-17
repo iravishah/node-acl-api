@@ -1,0 +1,11 @@
+{
+    "mongo" : {
+    	"host": "localhost",
+    	"port": "27017",
+        "database"  : "nodeacl",
+        "username"  : "admin",
+        "password"  : "root"
+    },
+    "port": 8889,
+    "admin_key": "qjWeZDS8tbbTxqNJwKubqpugesUuL3dV"
+}

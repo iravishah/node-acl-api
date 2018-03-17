@@ -1,0 +1,58 @@
+{
+    "m101": {
+        "response": {
+            "massage": "You do not have permission to access the resource",
+            "code": 101
+        },
+        "status": 400
+    },
+    "m102": {
+        "response": {
+            "massage": "Provide user_uid in headers",
+            "code": 102
+        },
+        "status": 400
+    },
+    "m103": {
+        "response": {
+            "massage": "User not found",
+            "code": 103
+        },
+        "status": 404
+    },
+    "m104": {
+        "response": {
+            "massage": "Error while creating user, please try again later",
+            "code": 104
+        },
+        "status": 400
+    },
+    "m105": {
+        "response": {
+            "massage": "Error while fetching wars, please try again later",
+            "code": 105
+        },
+        "status": 400
+    },
+    "m106": {
+        "response": {
+            "massage": "Error while fetching wars count, please try again later",
+            "code": 106
+        },
+        "status": 400
+    },
+    "m107": {
+        "response": {
+            "massage": "Error while searching wars, please try again later",
+            "code": 107
+        },
+        "status": 400
+    },
+    "m200": {
+        "response": {
+            "massage": "Request processed successfully",
+            "code": 200
+        },
+        "status": 200
+    }
+}
